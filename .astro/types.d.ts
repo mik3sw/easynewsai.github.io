@@ -190,98 +190,133 @@ declare module 'astro:content' {
   slug: "5-modi-per-usare-le-piante-in-casa-per-ridurre-lo-stress";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 "5-ortaggi-perfetti-per-il-tuo-balcone.mdx": {
 	id: "5-ortaggi-perfetti-per-il-tuo-balcone.mdx";
   slug: "5-ortaggi-perfetti-per-il-tuo-balcone";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
+} & { render(): Render[".mdx"] };
+"bonsai-e-spiritualità:-il-legame-con-il-buddismo.mdx": {
+	id: "bonsai-e-spiritualità:-il-legame-con-il-buddismo.mdx";
+  slug: "bonsai-e-spiritualità-il-legame-con-il-buddismo";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".mdx"] };
+"bonsai-in-giappone:-arte-natura-e-imperatori.mdx": {
+	id: "bonsai-in-giappone:-arte-natura-e-imperatori.mdx";
+  slug: "bonsai-in-giappone-arte-natura-e-imperatori";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".mdx"] };
+"bonsai-oggi:-tradizione-e-innovazione.mdx": {
+	id: "bonsai-oggi:-tradizione-e-innovazione.mdx";
+  slug: "bonsai-oggi-tradizione-e-innovazione";
+  body: string;
+  collection: "blog";
+  data: any
 } & { render(): Render[".mdx"] };
 "come-iniziare-un-orto-sul-balcone:-guida-passo-a-passo.mdx": {
 	id: "come-iniziare-un-orto-sul-balcone:-guida-passo-a-passo.mdx";
   slug: "come-iniziare-un-orto-sul-balcone-guida-passo-a-passo";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 "come-le-piante-purificano-la-mente-e-laria.mdx": {
 	id: "come-le-piante-purificano-la-mente-e-laria.mdx";
   slug: "come-le-piante-purificano-la-mente-e-laria";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 "giardinaggio-verticale:-massimo-rendimento-in-poco-spazio.mdx": {
 	id: "giardinaggio-verticale:-massimo-rendimento-in-poco-spazio.mdx";
   slug: "giardinaggio-verticale-massimo-rendimento-in-poco-spazio";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 "le-5-piante-domestiche-che-riducono-lo-stress.mdx": {
 	id: "le-5-piante-domestiche-che-riducono-lo-stress.mdx";
   slug: "le-5-piante-domestiche-che-riducono-lo-stress";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 "mini-terrario-in-vetro-progetto-ecologico-e-sostenibile.mdx": {
 	id: "mini-terrario-in-vetro-progetto-ecologico-e-sostenibile.mdx";
   slug: "mini-terrario-in-vetro-progetto-ecologico-e-sostenibile";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
+} & { render(): Render[".mdx"] };
+"origini-del-bonsai:-dalla-cina-al-giappone.mdx": {
+	id: "origini-del-bonsai:-dalla-cina-al-giappone.mdx";
+  slug: "origini-del-bonsai-dalla-cina-al-giappone";
+  body: string;
+  collection: "blog";
+  data: any
 } & { render(): Render[".mdx"] };
 "orto-in-contenitori:-soluzioni-per-spazi-ridotti.mdx": {
 	id: "orto-in-contenitori:-soluzioni-per-spazi-ridotti.mdx";
   slug: "orto-in-contenitori-soluzioni-per-spazi-ridotti";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 "piante-domestiche-e-salute-mentale:-il-legame.mdx": {
 	id: "piante-domestiche-e-salute-mentale:-il-legame.mdx";
   slug: "piante-domestiche-e-salute-mentale-il-legame";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
+} & { render(): Render[".mdx"] };
+"simboli-nascosti:-il-bonsai-nella-cultura-cinese.mdx": {
+	id: "simboli-nascosti:-il-bonsai-nella-cultura-cinese.mdx";
+  slug: "simboli-nascosti-il-bonsai-nella-cultura-cinese";
+  body: string;
+  collection: "blog";
+  data: any
 } & { render(): Render[".mdx"] };
 "stress-una-pianta-ti-salva-i-rimedi-naturali.mdx": {
 	id: "stress-una-pianta-ti-salva-i-rimedi-naturali.mdx";
   slug: "stress-una-pianta-ti-salva-i-rimedi-naturali";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 "terrario-come-arredo-riciclo-e-stile-in-casa.mdx": {
 	id: "terrario-come-arredo-riciclo-e-stile-in-casa.mdx";
   slug: "terrario-come-arredo-riciclo-e-stile-in-casa";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 "terrario-con-bottiglie-riutilizzate-step-by-step.mdx": {
 	id: "terrario-con-bottiglie-riutilizzate-step-by-step.mdx";
   slug: "terrario-con-bottiglie-riutilizzate-step-by-step";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 "terrario-ecologico-idee-per-spazi-piccoli.mdx": {
 	id: "terrario-ecologico-idee-per-spazi-piccoli.mdx";
   slug: "terrario-ecologico-idee-per-spazi-piccoli";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 "trucchi-per-coltivare-in-giardini-piccoli.mdx": {
 	id: "trucchi-per-coltivare-in-giardini-piccoli.mdx";
   slug: "trucchi-per-coltivare-in-giardini-piccoli";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".mdx"] };
 };
 
@@ -293,5 +328,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	type ContentConfig = typeof import("../src/content/config");
+	type ContentConfig = never;
 }
