@@ -39,7 +39,7 @@
 		"@astrojs/rss": "4.0.1",
 		"astro": "4.0.8",
 		"astro-font": "^0.0.72",
-		"sharp": "^0.33.0"
+		"sharp": "^0.34.3"
 	},
 	"devDependencies": {
 		"@astrojs/mdx": "2.0.3",
